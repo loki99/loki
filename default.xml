@@ -8,7 +8,7 @@
 	   fetch="git@github.com:loki99/" />
 
   <remote name="om"
-      feth="git@github.com:OMFGB/"/>
+      fetch="git@github.com:OMFGB/"/>
       
   <remote  name="gh"
            fetch="git@github.com:OMFGB/" />
