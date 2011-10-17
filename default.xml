@@ -23,7 +23,7 @@
 	   revision="gingerbread-release"
 	    />
 
-  <project path="build" name="build" remote="om" revision="master">
+  <project path="build" name="build" remote="loki99" revision="master">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="bionic" remote="om" revision="master"/>
