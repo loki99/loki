@@ -31,8 +31,8 @@
   <project path="bootable_diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" remote="cm" />
   <project path="bootable/recovery" name="bootable_recovery" remote="om" revision="master"/>
   <project path="dalvik" name="dalvik" remote="om" revision="master"/>
-  <project path="development" name="platform/development" />
-  <project path="device_common" name="device/common" />
+  <project path="development" name="CyanogenMod/android_development" remote="cm" />
+  <project path="device_common" name="device/common" remote="om"  />
   <project path="device/htc/common" name="device_htc_common" remote="om" revision="master"/>
   <project path="device/htc/mecha" name="device_htc_mecha" remote="om" revision="master"/>
   <project path="device/htc/msm7x30-common" name="device_htc_msm7x30-common" remote="om" revision="gingerbread"/>
