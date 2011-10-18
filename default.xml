@@ -124,7 +124,7 @@
   <project path="external/ppp" name="platform/external/ppp" />
   <project path="external/proguard" name="platform/external/proguard" />
   <project path="external/protobuf" name="platform/external/protobuf" />
-  <project path="external/qemu" name="CyanogenMod/platform_external_qemu" revision="tools_r7" remote="cm"/>
+  <project path="external/qemu" name="CyanogenMod/android_external_qemu" revision="tools_r7" remote="cm"/>
   <project path="external/rsync" name="external_rsync" remote="origin" revision="master"/>
   <project path="external/quake" name="platform/external/quake" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
