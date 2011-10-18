@@ -36,7 +36,7 @@
   <project path="device/htc/common" name="device_htc_common" remote="om" revision="master"/>
   <project path="device/htc/mecha" name="device_htc_mecha" remote="om" revision="master"/>
   <project path="device/htc/msm7x30-common" name="device_htc_msm7x30-common" remote="om" revision="gingerbread"/>
-  <project path="device/sample" name="device/sample" />
+  <project path="device/sample" name="CyanogenMod/android_device_sample" remote="cm" />
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bash" name="external_bash" remote="om" revision="master"/>
