@@ -169,7 +169,7 @@
   <project path="packages/apps/Music" name="packages_apps_Music" remote="om" revision="master" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
-  <project path="packages/apps/Phone" name="ProTekk/andorid_packages_apps_Phone" remote="cm" revision="master"/>
+  <project path="packages/apps/Phone" name="ProTekk/android_packages_apps_Phone" remote="cm" revision="lte_mecha_7-5/>
   <project path="packages/apps/Protips" name="packages_apps_Protips" remote="om" revision="master"/>
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
