@@ -210,11 +210,11 @@
   <project path="manifest" name="loki" remote="origin" revision="master"/>
 
 
-  <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="gingerbread" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="gingerbread" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="master" />
   <project path="vendor/tmobile/providers/ThemeManager" name="themes-platform-vendor-tmobile-providers-ThemeManager" remote="themes" revision="master" />
-  <project path="vendor/tmobile/themes/Androidian" name="android_vendor_tmobile_themes_Androidian" remote="cm" revision="gingerbread" />
-  <project path="vendor/tmobile/themes/Cyanbread" name="android_vendor_tmobile_themes_Cyanbread" remote="cm" revision="gingerbread" />
+  <project path="vendor/tmobile/themes/Androidian" name="CyanogenMod/android_vendor_tmobile_themes_Androidian" remote="cm" revision="gingerbread" />
+  <project path="vendor/tmobile/themes/Cyanbread" name="CyanogenMod/android_vendor_tmobile_themes_Cyanbread" remote="cm" revision="gingerbread" />
   <project path="vendor/omfgb/themes/OMFT" name="Oh-My-Fucking-Theme" remote="om" revision="master" />
   <project path="vendor/tmobile/products/themes" name="vendor_tmobile_products_themes" remote="om" revision="master" />
 
