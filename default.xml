@@ -27,8 +27,8 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="bionic" remote="origin" revision="master"/>
-  <project path="bootable_bootloader_legacy" name="platform/bootable/bootloader/legacy" />
-  <project path="bootable_diskinstaller" name="platform/bootable/diskinstaller" />
+  <project path="bootable_bootloader_legacy" name="android_bootable_bootloader_legacy" />
+  <project path="bootable_diskinstaller" name="android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="bootable_recovery" remote="origin" revision="master"/>
   <project path="dalvik" name="dalvik" remote="origin" revision="master"/>
   <project path="development" name="platform/development" />
